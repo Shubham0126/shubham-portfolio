@@ -1147,7 +1147,7 @@ button:focus {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  width: 940px;
+  max-width: 940px;
   bottom: 0px;
   right: 0px;
   top: 0;
