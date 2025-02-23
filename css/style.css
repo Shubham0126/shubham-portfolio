@@ -652,7 +652,7 @@ button:focus {
 
 .about_text {
   margin-top: 80px;
-  width: 608px !important;
+  max-width: 608px !important;
   position: relative;
   z-index: 2;
 }
@@ -667,7 +667,7 @@ button:focus {
 }
 
 .about_img {
-  height: 660px;
+  max-height: 660px;
 }
 
 /* about end */
